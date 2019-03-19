@@ -1,13 +1,17 @@
-'use strict'
+// 'use strict'
 
-/*
- * Create a constant variables for each primitives
- * `str`, `num`, `bool` and `undef`
- *
- * @notions Primitive and Operators, Variables
- */
+// /*
+//  * Create a constant variables for each primitives
+//  * `str`, `num`, `bool` and `undef`
+//  *
+//  * @notions Primitive and Operators, Variables
+//  */
 
 // Your code :
+const str = '1337';
+const num = 42;
+const bool = false;
+const undef = undefined;
 
 
 //* Begin of tests
