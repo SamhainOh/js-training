@@ -5,6 +5,15 @@
  * and return the total
  *
  */
+const total =(total) => {
+    let sum = 0;
+    for (let i =0; i < total.length; i++){
+        sum += total[i];
+       }
+       return sum;
+    }
+
+    
 
 
 //* Begin of tests
