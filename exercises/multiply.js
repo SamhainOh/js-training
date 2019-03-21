@@ -10,6 +10,12 @@
 
 // Your code :
 
+const total = 0;
+function multiply (var1,var2){
+    while (let i = var2){
+        
+    }
+}
 //* Begin of tests
 const assert = require('assert')
 
